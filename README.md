@@ -1,4 +1,4 @@
-### Hello, my name is Kevin and I'm a graduate student of Bloom Institude of Technology for full-stack web development. I'm have hands-on experience with HTML, CSS, JavaScript, React.js, Node.js, Express, and SQL. Feel free to reach me at kevinhhlee6@gmail.com or https://www.linkedin.com/in/kevinhhlee/.
+### Hello, my name is Kevin and I graduated from Bloom Institude of Technology for full-stack web development. I'm have hands-on experience with HTML, CSS, JavaScript, React.js, Node.js, Express, and SQL. Feel free to reach me at kevinhhlee6@gmail.com or https://www.linkedin.com/in/kevinhhlee/.
 
 <!--
 **kevkenshi-max/kevkenshi-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
